@@ -1,7 +1,7 @@
 sudo apt-get install Docker
 
 mkdir fapp2
-touch app.py
+touch app.py 
 
 app.py
 from flask import Flask
